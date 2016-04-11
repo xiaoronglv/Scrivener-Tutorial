@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="PVGM50860495A" Modified="2016-04-11 11:04:13 +0800" ModID="452F95EA-4255-4D5C-BE56-0C7AFEDC9E84">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="PVGM50860495A" Modified="2016-04-11 11:15:45 +0800" ModID="270A1B25-7550-4B09-995B-67066723D5C1">
     <Binder>
         <BinderItem ID="36" UUID="90C41F5F-1F2B-46F1-B304-61A52BCB3716" Type="Text" Created="2007-01-15 07:04:52 +0800" Modified="2016-04-10 17:44:51 +0800">
             <Title>START HERE</Title>
@@ -34,7 +34,7 @@
                         <SelectedSubdocumentIDs>4</SelectedSubdocumentIDs>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="4" UUID="856C0908-44CD-44A3-9052-39078554D995" Type="Text" Created="2006-08-24 04:26:35 +0800" Modified="2016-04-10 17:48:52 +0800">
+                        <BinderItem ID="4" UUID="856C0908-44CD-44A3-9052-39078554D995" Type="Text" Created="2006-08-24 04:26:35 +0800" Modified="2016-04-11 11:15:45 +0800">
                             <Title>Step 1: Beginnings</Title>
                             <MetaData>
                                 <LabelID>0</LabelID>
@@ -510,7 +510,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>1034,10</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -603,7 +603,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <MediaSettings>
-                        <CurrentPDFPage>0</CurrentPDFPage>
+                        <CurrentPDFPage>1</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
                 <BinderItem ID="28" UUID="7BD37A9D-E756-4BB9-AB43-056587DACF23" Type="Media" Created="2006-07-29 02:36:56 +0800" Modified="2006-07-29 02:36:56 +0800">
@@ -762,7 +762,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-07-01 04:12:08 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-04-11 10:34:57 +0800"></PreviousSession>
+        <PreviousSession Words="2" Characters="16" Date="2016-04-11 10:34:57 +0800"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
